@@ -1,0 +1,2 @@
+use atvJoaoP;
+truncate fornecedor;
