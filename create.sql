@@ -1,6 +1,6 @@
 create database if not exists atvJoaoP;
 use atvJoaoP;
-create table cliente(
+create table if not exists cliente(
 
 cpf varchar(100) PRIMARY KEY,
     nome varchar(100),
